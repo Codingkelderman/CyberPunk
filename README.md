@@ -10,5 +10,7 @@ not really
 
 
 **bold**
-* *italic* *
+
+ *italic* 
+
 ***bold and italic***
