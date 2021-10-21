@@ -6,7 +6,7 @@ Byte Jam 2021
 
 **Today was fun**
 
--not really-
+not really
 
 
 **bold**
